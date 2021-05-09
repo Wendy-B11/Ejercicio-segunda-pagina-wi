@@ -1,5 +1,6 @@
 var posiciones = [0,-160,-320,-481,-642,-803];
 var dado1,dado2,boton_tirar;
+var total;
 
 window.onload = init;
 
